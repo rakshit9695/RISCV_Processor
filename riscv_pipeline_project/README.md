@@ -1,6 +1,6 @@
 # RISC-V 4-Stage Pipeline CPU
 
-This project implements a **simple 32-bit RISC-V processor** with a **four-stage pipeline** in Verilog. Designed for **Electronics (Analog/Digital) freshers**, this README provides a clear breakdown of the architecture, key design principles, and simulation guidance to boost your **interview readiness**.
+This project implements a **simple 32-bit RISC-V processor** with a **four-stage pipeline** in Verilog. The README provides a clear breakdown of the architecture, key design principles, and simulation guidance towards the project.
 
 ---
 
