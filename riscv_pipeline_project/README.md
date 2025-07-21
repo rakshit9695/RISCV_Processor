@@ -13,7 +13,6 @@ This project implements a **simple 32-bit RISC-V processor** with a **four-stage
 - [Critical Digital Concepts](#critical-digital-concepts)
 - [Computer Architecture Principles](#computer-architecture-principles)
 - [Simulation Instructions](#simulation-instructions)
-- [Interview Preparation Tips](#interview-preparation-tips)
 
 ---
 
